@@ -1,0 +1,9 @@
+{
+    "hello": "Hello Again!",
+    "name": "Name",
+    "email": "Email adress",
+    "password": "Password",
+    "signup": "Sign up",
+    "already": "Already have Account?",
+    "signin": "Sign in"
+}

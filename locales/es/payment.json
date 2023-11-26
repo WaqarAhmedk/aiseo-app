@@ -1,0 +1,7 @@
+{
+    "card": "Tarjeta",
+    "card-no": "Número de Tarjeta",
+    "expiry": "Vencimiento",
+    "cvc": "CVC",
+    "paynow": "Pagar Ahora"
+}

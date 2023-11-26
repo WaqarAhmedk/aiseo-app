@@ -1,0 +1,28 @@
+.resultdiv {
+    overflow: scroll;
+    height: 70vh;
+}
+
+.resultli {
+    list-style: none;
+    /* display: inline; */
+    margin-right: 30px;
+    width: 70vw;
+}
+
+.plusicon {
+    height: 30px !important;
+    cursor: pointer;
+    width: 100px !important;
+    color: white;
+    /* display: inline */
+}
+
+
+
+.limaindiv {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 17px;
+    margin-bottom: 15px;
+}

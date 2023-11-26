@@ -1,0 +1,7 @@
+{
+    "card": "Card",
+    "card-no": "Card number",
+    "expiry": "Expiry",
+    "cvc": "Cvc",
+    "paynow": "Pay Now"
+}

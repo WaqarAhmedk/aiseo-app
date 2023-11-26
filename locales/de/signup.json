@@ -1,0 +1,9 @@
+{
+    "hello": "Hallo wieder!",
+    "name": "Name",
+    "email": "E-Mail-Adresse",
+    "password": "Passwort",
+    "signup": "Registrieren",
+    "already": "Bereits einen Account?",
+    "signin": "Anmelden"
+}
